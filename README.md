@@ -36,10 +36,10 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/i.harshanand)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/i.Priyanshanand)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Priyansh-Kotak)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://mobile.twitter.com/anand__harsh)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/harsh.anand245/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://mobile.twitter.com/anand__Priyansh)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/Priyansh.anand245/)
 
 <p align="center"> 
   <a href="https://github.com/Priyansh-Kotak?tab=repositories&sort=stargazers">
@@ -51,24 +51,17 @@
 
 ![](https://komarev.com/ghpvc/?username=Priyansh-Kotak)
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-<h2 align="center">🏆 Trophies</h2>
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=Priyansh-Kotak&margin-w=30&theme=onedark&row=1"/>
-</p>
-<p align="center"> <img src="/assets/morty.gif" /> </p>
 
-[![An image of @anandharsh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anandharsh)](https://holopin.io/@anandharsh)
 
-<!-- LeetCode Stats Card ❤️ -->
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/harshanand245)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Priyansh_Kotak)
 
 [![Priyansh-Kotak's GitHub | Stats](https://stats.quine.sh/Priyansh-Kotak/github?theme=dark)](https://quine.sh)
 
 [![Priyansh-Kotak's GitHub | Languages Over Time](https://stats.quine.sh/Priyansh-Kotak/languages-over-time?theme=dark)](https://quine.sh)
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyansh-Kotak&theme=tokyonight&show_icons=true)
+![Priyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyansh-Kotak&theme=tokyonight&show_icons=true)
 
-![Harsh's Streak](https://github-readme-streak-stats.herokuapp.com?user=Priyansh-Kotak&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+![Priyansh's Streak](https://github-readme-streak-stats.herokuapp.com?user=Priyansh-Kotak&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
