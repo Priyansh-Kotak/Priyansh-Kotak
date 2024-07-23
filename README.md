@@ -36,10 +36,8 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/i.Priyanshanand)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Priyansh-Kotak)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://mobile.twitter.com/anand__Priyansh)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/Priyansh.anand245/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshkotak/)
 
 <p align="center"> 
   <a href="https://github.com/Priyansh-Kotak?tab=repositories&sort=stargazers">
