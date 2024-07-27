@@ -4,8 +4,8 @@
 </h3>
 
 - 👋 Hi, I’m Priyansh Kotak
-- 👀 I’m interested in Programming and problem-solving + a passionate cloud developer, and DevOps enthusiast.
-- 💞️ I’m looking to collaborate on DevOps && Cloud architecture Model to End to End application.
+- 👀 I’m interested in Programming and problem-solving + a passionate cloud developer, and DevOps enthusiast and a self-made back-end develper.
+- 💞️ I’m looking to collaborate on DevOps && Cloud architecture Model to End to End applications.
 - 📫 Reach me through priyanshkotak1@gmail.com
 
 # What I know ??!!!
